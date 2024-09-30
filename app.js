@@ -5,10 +5,17 @@ let level=0;
 let high=0;
 let h3=document.querySelector("h3");
 let h2=document.querySelector("h2");
+let nav=document.querySelector("img");
+let navBox=document.querySelector("#nav");
 let color=["red","blue","purple","orange"];
 let btns=document.querySelectorAll(".box");
 let start=document.querySelector("#startBtn");
 let resetBtn=document.querySelector("#resetBtn");
+
+nav.addEventListener("click",function(){
+    navBox.classList.toggle("nav");
+    navBox.classList.toggle("navVisible");
+});
 
 start.addEventListener("click",function(){
     if(gameStarted == false){
