@@ -1,12 +1,12 @@
-                                                                  ##Simson Game
+<h1>Simson Game</h1>
+<br>
 
-
-Description:
+<h2>Description:</h2>
 
   Simson Game is a memory-based game where the player has to remember the sequence of colors. Each round, a new color is added to the previous sequence, making it  progressively more challenging. The game includes four colors.
 
-
-Features:
+<br>
+<h2>Features:</h2>
 
 1. Memory challenge where users have to recall the color sequence.
 
@@ -16,8 +16,8 @@ Features:
 
 4. Fun and engaging for improving memory skills.
 
-          
-How to Play:
+<br>          
+<h2>How to Play:</h2>
 
 The game will show a color sequence, starting with one color.
 
